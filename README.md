@@ -1,2 +1,2 @@
-# git-cource
-for teacin git course
+# git-course
+for teaching git course
